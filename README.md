@@ -23,8 +23,8 @@
 </p>
 <h1 align="center">HeX Addition</h1>
 <p align="center">
-    <a href="https://github.com/SOURAV-ROY/Number-System-Calculator/blob/master/images/Hex%20Add.PNG.PNG">
-        <img src="https://github.com/SOURAV-ROY/Number-System-Calculator/blob/master/images/Hex%20Add.PNG.PNG" 
+    <a href="https://github.com/SOURAV-ROY/Number-System-Calculator/blob/master/images/Hex%20Add.PNG">
+        <img src="https://github.com/SOURAV-ROY/Number-System-Calculator/blob/master/images/Hex%20Add.PNG" 
         alt="HeX Addition" />
     </a>
 </p>
